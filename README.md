@@ -6,7 +6,7 @@
 3. LCD 16x2
 4. Resistor 220 ohm (To keep current through LCD under limit)
 5. Potentiometer (To adjust contrast of message displayed on LCD)
-6. TMP36
+6. TMP36 (Since it is a simulation , real time temperature values are not recorded but, tmp36 gives the ability to change temperature as per requirement by providing a drag scale)
 7. Power Supply
 
 ![image](https://github.com/user-attachments/assets/ce6035b5-a0f4-4848-bd1c-7ecc810871b9)
